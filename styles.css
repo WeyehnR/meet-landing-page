@@ -172,7 +172,7 @@ p {
 /* Footer */
 .footer {
   position: relative;
-  background-image: url(./assets/mobile/image-footer.jpg);
+  background-image: url(./starter-code/assets/mobile/image-footer.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -242,7 +242,7 @@ p {
     margin: 0 auto;
   }
   .footer {
-    background-image: url(./assets/tablet/image-footer.jpg);
+    background-image: url(./starter-code/assets/tablet/image-footer.jpg);
   }
   .footer__content {
     display: flex;
@@ -285,12 +285,12 @@ p {
     background-repeat: no-repeat;
   }
   .hero::before {
-    background-image: url(./assets/desktop/image-hero-left.png);
+    background-image: url(./starter-code/assets/desktop/image-hero-left.png);
     left: -120px; 
     top: 20px;
   }
   .hero::after {
-    background-image: url(./assets/desktop/image-hero-right.png);
+    background-image: url(./starter-code/assets/desktop/image-hero-right.png);
     right: -160px; 
     top: 50px;
   }
@@ -311,7 +311,7 @@ p {
   }
 
   .footer {
-    background-image: url(./assets/desktop/image-footer.jpg);
+    background-image: url(./starter-code/assets/desktop/image-footer.jpg);
   }
 
   .footer__content {
